@@ -49,9 +49,6 @@ let g:go_highlight_operators = 1
 let g:go_highlight_extra_types = 1
 
 set updatetime=100
-~                             
-
-
 ```
 ## Step 3
 Open vim, execute `:GoInstallBinaries`
